@@ -27,7 +27,7 @@ content:
   coordinates:
     latitude: '30.5137'
     longitude: '114.41209'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  directions:  Yifu technology building
   office_hours:
     - 'Monday to Friday'
   appointment_url: 'https://calendly.com'
