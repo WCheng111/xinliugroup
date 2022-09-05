@@ -3,15 +3,14 @@
     "",
     "\\assets",
     "\\assets\\media",
+    "\\assets\\scss",
+    "\\config",
+    "\\config\\_default",
     "\\content",
     "\\content\\event",
-    "\\content\\event\\example",
-    "\\content\\home",
-    "\\content\\post",
-    "\\content\\post\\2022.7.23-huangshi",
-    "\\content\\publication",
-    "\\content\\publication\\journal-article"
+    "\\static",
+    "\\static\\uploads"
   ],
-  "SelectedNode": "\\content\\event\\example\\index.md",
+  "SelectedNode": "\\theme.toml",
   "PreviewInSolutionExplorer": false
 }
