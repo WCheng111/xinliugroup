@@ -3,15 +3,15 @@
     "",
     "\\assets",
     "\\assets\\media",
-    "\\assets\\media\\icons",
-    "\\config",
     "\\content",
-    "\\content\\people",
+    "\\content\\event",
+    "\\content\\event\\example",
+    "\\content\\home",
     "\\content\\post",
-    "\\content\\post\\20-12-01-wowchemy-prize",
+    "\\content\\post\\2022.7.23-huangshi",
     "\\content\\publication",
     "\\content\\publication\\journal-article"
   ],
-  "SelectedNode": "\\content\\post\\_index.md",
+  "SelectedNode": "\\content\\event\\example\\index.md",
   "PreviewInSolutionExplorer": false
 }
