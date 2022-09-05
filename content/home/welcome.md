@@ -21,4 +21,4 @@ Our Group is a theoretical group focus in Topological Quantum Physics：
     
 1.**High-order Topological Insulator**：Topological insulator is a very beautiful find in condensed matter physics.
 
-2.**Topological Quantum Computation**：Topological quantum computation can be used creat fault-tolerant quantum computing. to 
+2.**Topological Quantum Computation**：Topological quantum computation can be used creat fault-tolerant quantum computing. 
