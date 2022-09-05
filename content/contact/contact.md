@@ -15,8 +15,8 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: test@example.org
-  phone: 888 888 88 88
+  email: phyliuxin@hust.edu.cn,phyliuxin@gmail.com
+  phone: 
   address:
     street: 450 Serra Mall
     city: Stanford

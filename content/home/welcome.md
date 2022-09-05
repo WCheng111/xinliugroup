@@ -7,8 +7,7 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  Wowchemy  
-  Research Group
+  Topological Quantum Physics Group
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -18,6 +17,8 @@ design:
   css_class:
 ---
 
-<br>
+Our Group is a theoretical group focus in Topological Quantum Physics： 
+    
+1.**High-order Topological Insulator**：Topological insulator is a very beautiful find in condens matter physics.
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+2.**Topological Quantum Computation**：

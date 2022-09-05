@@ -1,37 +1,45 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Xin Liu
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of condensed matter physics
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: Huazhong University of Science and Technology
+    url: 'http://phys.hust.edu.cn'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include High-order Topological Insulator and Topological quantum computation.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - High-order Topological insulator
+  - Topological quantum computation
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Professor
+      institution: Huazhong university of science and technology
+      year: 2015-present
+    - course: Postdoctoral
+      institution: University of Maryland.Supervisor:Sankar Das Sarma
+      year: 2014-2015
+    - course: Postdoctoral
+      institution: University of Pennsylvania.Supervisor:Jainendra Jain,ChaoXing Liu
+      year: 2012-2014
+    - course: PhD in Condensed Matter Physics
+      institution: Texas A&M University(Tutor：Jairo Sinova)
+      year: 2006-2012
+    - course: Master in  theoretical physics
+      institution: Chern Institute of Mathematics, Nankai University.Adavisor:MoLin Ge
+      year: 2003-2006
+    - course: Bachelor in physics
+      institution: Nankai University
+      year: 1999-2003
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -65,9 +73,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Principal Investigators
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Xin Liu(刘鑫) is a professor in the Huazhong University of Science and Technology.
