@@ -25,8 +25,8 @@ content:
     country: Huazhong University of Science and Technology
     country_code: US
   coordinates:
-    latitude: '114.41209'
-    longitude: '30.5137'
+    latitude: '30.5137'
+    longitude: '114.41209'
   directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   office_hours:
     - 'Monday to Friday'
@@ -53,4 +53,4 @@ design:
   columns: '1'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+Welcom to our group to do your condensed matter theory research.you can do PhD,or postdoctoral researchers.....
