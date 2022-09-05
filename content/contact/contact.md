@@ -18,19 +18,18 @@ content:
   email: phyliuxin@hust.edu.cn,phyliuxin@gmail.com
   phone: 
   address:
-    street: 450 Serra Mall
-    city: Stanford
+    street: 
+    city: WuHan
     region: CA
-    postcode: '94305'
-    country: United States
+    postcode: '430074'
+    country: Huazhong University of Science and Technology
     country_code: US
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
+    latitude: '114.41209'
+    longitude: '30.5137'
   directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
+    - 'Monday to Friday'
   appointment_url: 'https://calendly.com'
   #contact_links:
   #  - icon: comments

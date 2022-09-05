@@ -76,4 +76,4 @@ user_groups:
   - Principal Investigators
 ---
 
-Xin Liu(刘鑫) is a professor in the Huazhong University of Science and Technology.
+Xin Liu(刘鑫) is a professor in the Huazhong University of Science and Technology.......

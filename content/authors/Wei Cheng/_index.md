@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Topological 
-  - Computational Linguistics
-  - Information Retrieval
+  - Topological insulator and superconductor
+  - Unconventional superconductor
+  - runing，pingpang，painting and so on
 
 education:
   courses:
@@ -60,4 +60,4 @@ user_groups:
   - Ph.D
 ---
 
-My name is Wei Cheng.
+My name is Wei Cheng.I'm very happy to join this group to explore the beauty of the condensed matter theory.
