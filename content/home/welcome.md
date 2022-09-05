@@ -19,6 +19,6 @@ design:
 
 Our Group is a theoretical group focus in Topological Quantum Physics： 
     
-1.**High-order Topological Insulator**：Topological insulator is a very beautiful find in condens matter physics.
+1.**High-order Topological Insulator**：Topological insulator is a very beautiful find in condensed matter physics.
 
-2.**Topological Quantum Computation**：
+2.**Topological Quantum Computation**：Topological quantum computation can be used creat fault-tolerant quantum computing. to 
