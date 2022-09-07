@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
-    "\\config",
-    "\\config\\_default",
     "\\content",
     "\\content\\authors",
-    "\\content\\authors\\Wei Cheng",
-    "\\content\\post",
+    "\\content\\authors\\admin",
+    "\\content\\authors\\Hanbing Leng",
+    "\\content\\authors\\Li Chen",
+    "\\content\\authors\\Xunjiang Luo",
+    "\\content\\people",
     "\\content\\publication",
     "\\content\\tour"
   ],
-  "SelectedNode": "\\content\\authors\\Wei Cheng\\_index.md",
+  "SelectedNode": "\\content\\authors\\Hanbing Leng\\_index.md",
   "PreviewInSolutionExplorer": false
 }
