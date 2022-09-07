@@ -2,14 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\assets\\media",
-    "\\assets\\scss",
     "\\config",
     "\\config\\_default",
     "\\content",
-    "\\content\\event",
-    "\\static",
-    "\\static\\uploads"
+    "\\content\\authors",
+    "\\content\\authors\\Wei Cheng",
+    "\\content\\post",
+    "\\content\\publication",
+    "\\content\\tour"
   ],
+  "SelectedNode": "\\content\\authors\\Wei Cheng\\_index.md",
   "PreviewInSolutionExplorer": false
 }
