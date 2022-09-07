@@ -10,20 +10,18 @@ authors:
 superuser: false
 
 # Role/position
-role: 2022 Ph.D
+role: graduate Ph.D
 
 # Organizations/Affiliations
 organizations:
-  - name: More is different.
-    url: 'https://www.science.org/doi/10.1126/science.177.4047.393'
+  - name: 
+    url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Topological insulator and superconductor
-  - Unconventional superconductor
-  - runing，pingpang，painting and so on
+ 
 
 education:
   courses:
@@ -57,5 +55,3 @@ email: 'wcheng@hust.edu.cn'
 user_groups:
   - Graduated Ph.D
 ---
-
-My name is Wei Cheng.I'm very happy to join this group to explore the beauty of the condensed matter theory.
