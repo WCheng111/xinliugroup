@@ -20,7 +20,7 @@ publishDate: '2022-05-05'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Journal of Source Themes, 1*(1)'
+publication: '*Phys. Rev. B'
 publication_short: ''
 
 abstract: 
