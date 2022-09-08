@@ -1,25 +1,22 @@
 ---
-title: 'Lattice-Symmetry-Assisted Second-Order Topological Superconductors and Majorana Patterns'
+title: 'Lattice distortion induced first- and second-order topological phase transition
+in a rectangular high-Tc superconducting monolayer'
 authors:
-  - Xiaohong Pan
-  - Kaijie Yang
   - Li Chen
-  - Gang Xu
-  - Chao-Xing Liu
+  - Bin Liu
+  -Gang Xu
   - admin
 author_notes:
   - ''
   - ''
-  - ''
-  - ''
-  - ''
+  - 'Corresponding Author'
   - 'Corresponding Author'
 
-date: '2019-10-10'
+date: '2021-06-01'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2019-10-10'
+publishDate: '2021-06-01'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,7 +25,7 @@ publishDate: '2019-10-10'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: 'Phys. Rev. Letter'
+publication: 'Phys. Rev. Research'
 publication_short: ''
 
 abstract: 
@@ -43,7 +40,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.123.156801
+url_pdf: https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.3.023166
 url_code: ''
 url_dataset: ''
 url_poster: ''

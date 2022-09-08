@@ -1,12 +1,14 @@
 ---
-title: 'Lattice-Symmetry-Assisted Second-Order Topological Superconductors and Majorana Patterns'
+title: 'Dirac fermions in the layered titanium-based oxypnictide superconductor' 
+BaTi2Bi2O'
 authors:
-  - Xiaohong Pan
-  - Kaijie Yang
+  - Xianbiao Shi
   - Li Chen
-  - Gang Xu
-  - Chao-Xing Liu
+  - Peng He
+  - Guangtao Wang
+  - Gongping Zheng
   - admin
+  -Weiwei Zhao
 author_notes:
   - ''
   - ''
@@ -14,12 +16,13 @@ author_notes:
   - ''
   - ''
   - 'Corresponding Author'
+  - 'Corresponding Author'
 
-date: '2019-10-10'
+date: '2019-04-30'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2019-10-10'
+publishDate: '2019-04-30'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,7 +31,7 @@ publishDate: '2019-10-10'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: 'Phys. Rev. Letter'
+publication: 'Phys. Rev. B'
 publication_short: ''
 
 abstract: 
@@ -43,7 +46,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.123.156801
+url_pdf:https://journals.aps.org/prb/pdf/10.1103/PhysRevB.99.155155 
 url_code: ''
 url_dataset: ''
 url_poster: ''
