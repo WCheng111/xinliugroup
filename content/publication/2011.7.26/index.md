@@ -7,7 +7,7 @@ authors:
 author_notes:
   - 'First Author'
   - ''
-  - 'Corresponding Author'
+  - ''
  
 date: '2011-07-26'
 doi: ''
