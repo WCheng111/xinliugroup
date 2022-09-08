@@ -3,9 +3,9 @@ title: 'Majorana spintronics'
 authors:
   - admin
   - Xiaopeng Li
-  -Dong-Ling Deng
-  -Xiong-Jun Liu
-  -S.Das Sarma
+  - Dong-Ling Deng
+  - Xiong-Jun Liu
+  - S.Das Sarma
 author_notes:
   - 'First Author'
   - ''
@@ -41,7 +41,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf:https://journals.aps.org/prb/pdf/10.1103/PhysRevB.94.014511
+url_pdf: https://journals.aps.org/prb/pdf/10.1103/PhysRevB.94.014511
 url_code: ''
 url_dataset: ''
 url_poster: ''
