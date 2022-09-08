@@ -1,21 +1,19 @@
 ---
-title: 'Detecting and braiding higher-order Majorana corner states through their spin degree of freedom'
+title: 'Higher-order topological superconductors based on weak topological insulators'
 authors:
-  - Xiaohong Pan
   - Xunjiang Luo
-  - Jinhua Gao
+  - Xiaohong Pan
   - admin
 author_notes:
   - ''
   - ''
   - 'Corresponding Author'
-  - 'Corresponding Author'
 
-date: '2022-05-05'
+date: '2021-09-22'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-05-05'
+publishDate: '2021-09-22'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -39,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://journals.aps.org/prb/pdf/10.1103/PhysRevB.105.195106
+url_pdf: https://journals.aps.org/prb/pdf/10.1103/PhysRevB.104.104510
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -71,4 +69,3 @@ slides:
 ---
 
 
-Supplementary notes can be added here, including [supplementary](https://journals.aps.org/prb/supplemental/10.1103/PhysRevB.105.L180502/Supplementary_material.pdf).
