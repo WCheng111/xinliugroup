@@ -2,10 +2,10 @@
 title: 'Lattice-Symmetry-Assisted Second-Order Topological Superconductors and Majorana Patterns'
 authors:
   - Xiaohong Pan
-  -Kaijie Yang
-  -Li Chen
-  -Gang Xu
-  -Chao-Xing Liu
+  - Kaijie Yang
+  - Li Chen
+  - Gang Xu
+  - Chao-Xing Liu
   - admin
 author_notes:
   - ''
