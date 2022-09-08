@@ -3,8 +3,8 @@ title: 'Detecting and braiding higher-order Majorana corner states through their
 authors:
   - Xiaohong Pan
   - Xunjiang Luo
-  -Jinhua Gao
-  -admin
+  - Jinhua Gao
+  - admin
 
 
 date: '2015-09-01T00:00:00Z'
