@@ -1,9 +1,9 @@
 ---
-title: 'Detecting and braiding higher-order Majorana corner states through their spin degree of freedom'
+title: '0-π qubit with one Josephson junction'
 authors:
-  - Xiaohong Pan
-  - Xunjiang Luo
-  - Jinhua Gao
+  - Guoliang Guo
+  - Hanbing Leng
+  - Yong Hu
   - admin
 author_notes:
   - ''
@@ -11,11 +11,11 @@ author_notes:
   - 'Corresponding Author'
   - 'Corresponding Author'
 
-date: '2022-05-05'
+date: '2022-05-04'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-05-05'
+publishDate: '2022-05-04'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -24,7 +24,7 @@ publishDate: '2022-05-05'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Phys. Rev. B'
+publication: 'Phys. Rev. B'
 publication_short: ''
 
 abstract: 
@@ -39,7 +39,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://journals.aps.org/prb/pdf/10.1103/PhysRevB.105.195106
+url_pdf: https://journals.aps.org/prb/pdf/10.1103/PhysRevB.105.L180502
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -70,8 +70,5 @@ projects: []
 slides:
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
 
-Supplementary notes can be added here, including [supplementary](https://journals.aps.org/prb/supplemental/10.1103/PhysRevB.105.L180502/Supplementary_material.pdf).
+
