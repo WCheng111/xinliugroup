@@ -4,7 +4,7 @@ in a rectangular high-Tc superconducting monolayer'
 authors:
   - Li Chen
   - Bin Liu
-  -Gang Xu
+  - Gang Xu
   - admin
 author_notes:
   - ''
