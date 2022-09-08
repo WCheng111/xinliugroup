@@ -1,7 +1,7 @@
 ---
 title: 'Scaling of the anomalous Hall effect in the insulating regime'
 authors:
-  -Xiong-Jun Liu
+  - Xiong-Jun Liu
   - admin
   - Jairo Sinova
 author_notes:
