@@ -24,7 +24,7 @@ publication: '*Journal of Source Themes, 1*(1)'
 publication_short: ''
 
 abstract:  We uncover the transverse Majorana spin polarization of a class of higher-order topological superconductors.
-“Transverse” means that the spin polarization of the Majorana zero modes is perpendicular instead of parallel
+Transverse means that the spin polarization of the Majorana zero modes is perpendicular instead of parallel
 with the applied magnetic field. With this novel Majorana spin property, we predict the spin-selective Andreev
 reflection occurs at lead polarization perpendicular to the applied magnetic field, in sharp contrast to that in the
 Majorana nanowire and vortex system. The induced topological Josephson φ0 junction shows the qualitative
