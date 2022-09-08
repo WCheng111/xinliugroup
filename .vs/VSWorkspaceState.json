@@ -3,14 +3,14 @@
     "",
     "\\content",
     "\\content\\authors",
-    "\\content\\authors\\Li Chen",
-    "\\content\\authors\\Wei Cheng",
-    "\\content\\authors\\Wei Yan",
-    "\\content\\authors\\Xunjiang Luo",
-    "\\content\\people",
+    "\\content\\authors\\Guoliang Guo",
+    "\\content\\authors\\Suqi Zhang",
+    "\\content\\authors\\XiaoHong Pan",
     "\\content\\publication",
+    "\\content\\publication\\journal-article",
+    "\\content\\publication\\preprint",
     "\\content\\tour"
   ],
-  "SelectedNode": "\\content\\authors\\Wei Yan\\_index.md",
+  "SelectedNode": "\\content\\authors\\XiaoHong Pan\\_index.md",
   "PreviewInSolutionExplorer": false
 }
