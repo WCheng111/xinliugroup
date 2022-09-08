@@ -8,8 +8,8 @@ authors:
 author_notes:
   - ''
   - ''
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - 'Corresponding Author'
+  - 'Corresponding Author'
 
 date: '2022-05-05'
 doi: ''
