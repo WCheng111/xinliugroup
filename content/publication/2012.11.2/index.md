@@ -1,19 +1,19 @@
 ---
-title: 'Universal spin-triplet superconducting correlations of Majorana fermions'
+title: 'Unified theory of spin dynamics in a two-dimensional electron gas with arbitrary spin-orbit
+coupling strength at finite temperature'
 authors:
   - admin
-  - Jay D.Sau
   - S.Das Sarma
 author_notes:
   - 'First Author'
   - ''
   - 'Corresponding Author'
  
-date: '2015-07-27'
+date: '2012-11-02'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2015-07-27'
+publishDate: '2012-11-02'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -37,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://journals.aps.org/prb/pdf/10.1103/PhysRevB.92.014513
+url_pdf: https://journals.aps.org/prb/pdf/10.1103/PhysRevB.86.174301
 url_code: ''
 url_dataset: ''
 url_poster: ''

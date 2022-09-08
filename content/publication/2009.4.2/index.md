@@ -1,19 +1,20 @@
 ---
-title: 'Universal spin-triplet superconducting correlations of Majorana fermions'
+title: 'Fractional spin Hall effect in atomic Bose gases'
 authors:
+  - Xiong-Jun Liu
   - admin
-  - Jay D.Sau
-  - S.Das Sarma
+  - L. C. Kwek
+  - C. H. Oh
 author_notes:
   - 'First Author'
   - ''
+  - ''
   - 'Corresponding Author'
- 
-date: '2015-07-27'
+date: '2009-04-02'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2015-07-27'
+publishDate: '2009-04-02'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -37,7 +38,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://journals.aps.org/prb/pdf/10.1103/PhysRevB.92.014513
+url_pdf: https://journals.aps.org/prb/pdf/10.1103/PhysRevB.79.165301
 url_code: ''
 url_dataset: ''
 url_poster: ''
