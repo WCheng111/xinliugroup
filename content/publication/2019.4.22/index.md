@@ -37,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf:https://journals.aps.org/prb/pdf/10.1103/PhysRevB.99.165307
+url_pdf: https://journals.aps.org/prb/pdf/10.1103/PhysRevB.99.165307
 url_code: ''
 url_dataset: ''
 url_poster: ''
