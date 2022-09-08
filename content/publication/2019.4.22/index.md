@@ -3,7 +3,7 @@ title: 'Superconducting spin properties of Majorana nanowires and the associated
 authors:
   - Li Chen
   - Yinghai Wu
-  -admin
+  - admin
 author_notes:
   - ''
   - 'Corresponding Author'
