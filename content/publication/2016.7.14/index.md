@@ -10,8 +10,8 @@ author_notes:
   - 'First Author'
   - ''
   - ''
-  -''
-  -'Corresponding Author'
+  - ''
+  - 'Corresponding Author'
 
 date: '2016-07-14'
 doi: ''
