@@ -21,7 +21,7 @@ publishDate: '2014-11-26'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: 'Phys. Rev. B'
+publication: 'Phys. Rev. Letter'
 publication_short: ''
 
 abstract: 
