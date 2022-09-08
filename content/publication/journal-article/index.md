@@ -1,11 +1,15 @@
 ---
 title: 'Detecting and braiding higher-order Majorana corner states through their spin degree of freedom'
 authors:
-  - Postdoc
-  - Graduated Ph.D[Xunjiang Luo]
+  - Xiaohong Pan
+  - Xunjiang Luo
   - Jinhua Gao
   - admin
-
+author_notes:
+  - ''
+  - ''
+  - 'Equal contribution'
+  - 'Equal contribution'
 
 date: '2022-05-05'
 doi: ''
