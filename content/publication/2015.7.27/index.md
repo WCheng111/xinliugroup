@@ -3,7 +3,7 @@ title: 'Universal spin-triplet superconducting correlations of Majorana fermions
 authors:
   - admin
   - Jay D.Sau
-  -S.Das Sarma
+  - S.Das Sarma
 author_notes:
   - 'First Author'
   - ''
