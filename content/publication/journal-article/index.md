@@ -5,9 +5,8 @@ authors:
   - Xunjiang Luo
   -Jinhua Gao*
   -admin
-author_notes:
-  - ''
-  - ''
+
+
 date: '2015-09-01T00:00:00Z'
 doi: ''
 
