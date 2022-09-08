@@ -1,16 +1,18 @@
 ---
-title: 'An example journal article'
+title: 'Detecting and braiding higher-order Majorana corner states through their spin degree of freedom'
 authors:
-  - admin
-  - Robert Ford
+  - Xiaohong Pan
+  - Xunjiang Luo
+  -Jinhua Gao*
+  -admin
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - ''
+  - ''
 date: '2015-09-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022-05-05'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,7 +24,15 @@ publication_types: ['2']
 publication: '*Journal of Source Themes, 1*(1)'
 publication_short: ''
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract:  We uncover the transverse Majorana spin polarization of a class of higher-order topological superconductors.
+“Transverse” means that the spin polarization of the Majorana zero modes is perpendicular instead of parallel
+with the applied magnetic field. With this novel Majorana spin property, we predict the spin-selective Andreev
+reflection occurs at lead polarization perpendicular to the applied magnetic field, in sharp contrast to that in the
+Majorana nanowire and vortex system. The induced topological Josephson φ0 junction shows the qualitative
+difference from the topologically trivial Josephson φ0 junction and provides benefits in constructing all electronically
+controlled Majorana networks for braiding. We thus provide a comprehensive scheme for probing
+non-Abelian statistics in this class of higher-order topological superconductors with transverse Majorana spin
+texture.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -34,7 +44,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://journals.aps.org/prb/pdf/10.1103/PhysRevB.105.195106
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -69,4 +79,4 @@ slides:
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
+Supplementary notes can be added here, including [supplementary](https://journals.aps.org/prb/supplemental/10.1103/PhysRevB.105.L180502/Supplementary_material.pdf).
