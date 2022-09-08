@@ -1,27 +1,18 @@
 ---
-title: 'Dirac fermions in the layered titanium-based oxypnictide superconductor BaTi2Bi2O'
+title: 'Long-Range Spin-Triplet Helix in Proximity Induced Superconductivity in Spin-Orbit-Coupled Systems'
 authors:
-  - Xianbiao Shi
-  - Li Chen
-  - Peng He
-  - Guangtao Wang
-  - Gongping Zheng
   - admin
-  -Weiwei Zhao
+  - J. K. Jain
+  - Chao-Xing Liu
 author_notes:
-  - ''
-  - ''
-  - ''
-  - ''
+  - 'First Author'
   - ''
   - 'Corresponding Author'
-  - 'Corresponding Author'
-
-date: '2019-04-30'
+date: '2014-11-26'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2019-04-30'
+publishDate: '2014-11-26'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -45,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf:https://journals.aps.org/prb/pdf/10.1103/PhysRevB.99.155155 
+url_pdf: https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.113.227002
 url_code: ''
 url_dataset: ''
 url_poster: ''
