@@ -1,7 +1,7 @@
 ---
 title: 'Quantum Anomalous Hall Effect in Magnetically Doped InAs/GaSb Quantum Wells'
 authors:
-  -Qing-Ze Wang
+  - Qing-Ze Wang
   - admin
   - Hai-Jun Zhang
   - Hai-Jun Zhang
